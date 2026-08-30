@@ -628,7 +628,7 @@ flowchart LR
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=MohsinAli-Robotics&show_icons=true&hide_border=true&bg_color=071013&title_color=2CE6B7&icon_color=2CE6B7&text_color=C7D9D4&ring_color=2CE6B7"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Ali0987&layout=compact&hide_border=true&bg_color=071013&title_color=2CE6B7&text_color=C7D9D4"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAli-Robotics&layout=compact&hide_border=true&bg_color=071013&title_color=2CE6B7&text_color=C7D9D4"/>
 
 </div>
 
@@ -636,7 +636,7 @@ flowchart LR
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin-Ali0987&hide_border=true&background=071013&stroke=16332D&ring=2CE6B7&fire=2CE6B7&currStreakLabel=2CE6B7&sideLabels=C7D9D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=748984"/>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli-Robotics&hide_border=true&background=071013&stroke=16332D&ring=2CE6B7&fire=2CE6B7&currStreakLabel=2CE6B7&sideLabels=C7D9D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=748984"/>
 
 </div>
 
@@ -644,7 +644,7 @@ flowchart LR
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsin-Ali0987&bg_color=071013&color=B7CBC6&line=2CE6B7&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY%20SIGNAL"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinAli-Robotics&bg_color=071013&color=B7CBC6&line=2CE6B7&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY%20SIGNAL"/>
 
 </div>
 
